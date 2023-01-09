@@ -38,4 +38,3 @@ jobs:
           curl https://raw.githubusercontent.com/osala-eng/alx_tools/master/alx-hlp/handler > suites/handler
           chmod a+x suites/handler
           ./suites/handler
-
